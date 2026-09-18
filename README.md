@@ -14,4 +14,4 @@ pip3 install pynput
 ```bash
 python3 key_logger.py
 ```
-
+**Note:** This tool is strictly for educational and authorized security testing purposes.
